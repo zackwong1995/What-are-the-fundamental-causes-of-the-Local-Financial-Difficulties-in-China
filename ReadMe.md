@@ -10,8 +10,8 @@ Q1: Local governments have long relied on land sales to generate revenues. Is th
 China's local fiscal pressure is getting bigger and bigger. There are two main reasons for integrating China's current national conditions, and each reason can be divided into two aspects:
 
 ### 1. Income reduction
-<u> 1.1 Downside economic pressure
-  </u>
+#### 1.1 Downside economic pressure
+
 <div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%201.png" width = 50% height = 50% alt="Figure 1" /> 
   <div/>
 
@@ -24,8 +24,8 @@ China's local fiscal pressure is getting bigger and bigger. There are two main r
 </div>
 
 <br/>
-<u> 1.2 National tax reduction and reduction of personal social security contributions rate (since 2018) 
-  </u>
+#### 1.2 National tax reduction and reduction of personal social security contributions rate (since 2018) 
+
   In the second meeting of the 13th National People's Congress in 2019, Premier Li Keqiang said that in 2019, the corporate tax burden and social security contribution rate will be reduced. After the unprecedented tax cut and fee reduction, the overall social dividend would be about 2 trillion yuan. (The overall size of the national tax cut and fee reduction in 2018 is about 1.3 trillion). According to the latest national fiscal data in September 2019, the cumulative growth rate of national fiscal revenue in September 2019 was 3.3%, the same period in September 2018 was 8.7%, and the period in September 2017 was 9.7%. It can be seen that the government's tax cut and fee reduction policies have indeed caused pressure on local taxation and other sources of income across the country.
 
 <div/>
