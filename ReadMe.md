@@ -1,7 +1,7 @@
 # Peking University HSBC Business Shcool_ WONG YUK TUNG: INTRODUCTION TO THE CHINESE ECONOMY- FINAL ESSAY
 # What Are The Fundamental Causes Of The Local Financial Difficulties in China? 
 <br/>
-
+<font color=black size=3>
 ## Summary 
 It can be said that the local financial difficulties in China are caused by many reasons. The overcapacity problems left by the rapid industrial development in the early years, the lack of long-term development projects of the government (long-term taxation raise from the development of enterprises and citizens), low utilization of infrastructure and urban facilities (Empty Cities), restrictions on the free flow of population, and the unwilling of enterprises to entry caused by the opacity of the system. In addition to these, there are many hidden issues, such as government debt and corruption. Together, these problems have caused more and more financial pressure on the local government. And how to improve the utilization of investment development and infrastructure, strengthening the labor efficiency of local cities, optimizing the management for the external population would be the most important aspects.
 <br/>
@@ -16,3 +16,9 @@ China's local fiscal pressure is getting bigger and bigger. There are two main r
 <div align="center"> <font color=black size=>Figure 1 2016 Local Financial Development Index Ranking; Source: ”The Report of 2018 China’s Regional Financial Development Index”</font> <div/>
 <br/>
 Figure 2 shows the proportion of the five major categories of expenditures in 31 provinces, autonomous regions, and municipality in 2008 and 2016: administrative expenditures, people's livelihood expenditures, budgetary investment expenditures, general investment tendencies, and environmental expenditures. It can be seen that local governments have increased by a large portion in the two categories of intra-budgetary investment expenditure and generalized investment propensity, with an increase of 40.5% and 46.1% respectively, reflecting that local governments have continuously increased their investment since 2006.
+
+
+
+
+
+</font>
