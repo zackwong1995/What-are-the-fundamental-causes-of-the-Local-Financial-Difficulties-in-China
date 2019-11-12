@@ -13,6 +13,6 @@ China's local fiscal pressure is getting bigger and bigger. There are two main r
 <u> 1.1 Downside economic pressure </u>
 <div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%201.png" width = 75% height = 75% alt="Figure 1" /> <div/>
 
-<div align="center"> <font color=black size=1>Figure 1 2016 Local Financial Development Index Ranking; Source: ”The Report of 2018 China’s Regional Financial Development Index”</font> <div/>
+<div align="center"> <font color=black size=0.5>Figure 1 2016 Local Financial Development Index Ranking; Source: ”The Report of 2018 China’s Regional Financial Development Index”</font> <div/>
 
 Figure 2 shows the proportion of the five major categories of expenditures in 31 provinces, autonomous regions, and municipality in 2008 and 2016: administrative expenditures, people's livelihood expenditures, budgetary investment expenditures, general investment tendencies, and environmental expenditures. It can be seen that local governments have increased by a large portion in the two categories of intra-budgetary investment expenditure and generalized investment propensity, with an increase of 40.5% and 46.1% respectively, reflecting that local governments have continuously increased their investment since 2006.
