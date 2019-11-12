@@ -10,6 +10,8 @@ Q1: Local governments have long relied on land sales to generate revenues. Is th
 <br/>
 China's local fiscal pressure is getting bigger and bigger. There are two main reasons for integrating China's current national conditions, and each reason can be divided into two aspects:
 ### 1. Income reduction
-<u>1.1 Downside economic pressure</u>
+<u> 1.1 Downside economic pressure </u>
 <div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%201.png" width = 75% height = 75% alt="Figure 1" /> <div/>
 
+<div align="center"> <font color=black size=1>Figure 1 2016 Local Financial Development Index Ranking</font> <div/>
+<div align="center"> <font color=black size=1>Source: ”The Report of 2018 China’s Regional Financial Development Index” </font> <div/>
