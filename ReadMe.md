@@ -13,5 +13,4 @@ China's local fiscal pressure is getting bigger and bigger. There are two main r
 <u> 1.1 Downside economic pressure </u>
 <div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%201.png" width = 75% height = 75% alt="Figure 1" /> <div/>
 
-<div align="center"> <font color=black size=1>Figure 1 2016 Local Financial Development Index Ranking</font> <div/>
-<div align="center"> <font color=black size=1>Source: ”The Report of 2018 China’s Regional Financial Development Index” </font> <div/>
+<div align="center"> <font color=black size=1>Figure 1 2016 Local Financial Development Index Ranking; Source: ”The Report of 2018 China’s Regional Financial Development Index”</font> <div/>
