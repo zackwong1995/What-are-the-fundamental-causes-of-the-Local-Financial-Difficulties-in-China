@@ -44,13 +44,14 @@ China's local fiscal pressure is getting bigger and bigger. There are two main r
 </div>
 
 <div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%203.png" width = 50% height = 50% alt="Figure 3" />
-  <div/>
+  </div>
 
-<div align="center"> <font color=black size=1>Figure 3	Indicators of fiscal expenditure structure in the Eastern, Central and Western Regions from 2008 to 2016, Source: ”The Report of 2018 China’s Regional Financial Development Index”</font>
-  <div/>
+<div align="center">
+  <font color=black size=1>Figure 3	Indicators of fiscal expenditure structure in the Eastern, Central and Western Regions from 2008 to 2016, Source: ”The Report of 2018 China’s Regional Financial Development Index”</font>
+</div>
   
 <br/>
-  
+<div align="left">
 Figure 3 shows the expenditures in the eastern, central and western regions. The total investment in the western region is significantly higher than that in the central and western regions, especially in the generalized investment propensity . This reflects that the western region government still focuses on infrastructure investment to stimulate the economy. Projects of Infrastructure are usually huge invested, and it is difficult to achieve returns and break-even in the short term. Therefore, the financial pressure that began to emerge.
 
 <br/>
@@ -182,7 +183,7 @@ Local government can also improve population management, simplify the applicatio
 As long as the government can properly select priority objectives, solve them orderly, and not be too hasty. These problems could be solved in the future. 
 
 
-
+</div>
 
 
 
