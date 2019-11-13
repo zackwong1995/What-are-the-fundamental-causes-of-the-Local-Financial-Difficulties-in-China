@@ -69,6 +69,8 @@ Figure 3 shows the expenditures in the eastern, central and western regions. The
 As China's aging phenomenon accelerates, the local government's pension expenditures are increasing. First, as can be seen from Figure 4, since 2008, the surplus ratios of various funds have been declining. This reflects that the three major social security funds in China are facing surplus falling. As the population ages, the surplus of funds would probably decline continuously. Once the expenditure is greater than income, the government needs to increase subsidies and fill the gap. In addition, Figure 4 also shows that from 2008 to 2016, the dependency ratio of endowment insurance has also increased by 6.3%, which reflects that a large part of the pressure in China's social security fund comes from the aging population. This phenomenon has forced local governments to increase subsidies and cost the local budget.
 </div>
 
+<br/>
+
 <div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%204.png" width = 50% height = 50% alt="Figure 5" />
 </div>
 
@@ -121,7 +123,7 @@ Considering that local governments have rich experience in investment of infrast
 </div>
 
 <div align="center"> 
-  <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%209.png" width = 50% height = 50% alt="Figure 9" />
+  <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%209.png" width = 75% height = 75% alt="Figure 9" />
 </div>
 
 <div align="center">
@@ -135,7 +137,7 @@ Take the stations opened by the MTR corporation in recent years as an example. A
 </div>
 
 <div align="center"> 
-  <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%2010.png" width = 50% height = 50% alt="Figure 10" />
+  <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%2010.png" width = 75% height = 75% alt="Figure 10" />
 </div>
 <div align="center">
   <font color=black size=1>Figure 10	 Price trend of the Whampoa Garden before and after the new MTR line opening, Source: MIDLAND REALTY, https://www.midland.com.hk/property-price-chart/</font>
@@ -167,14 +169,14 @@ Q3:  Can China's current excess capacity (infrastructure, factories, etc.) be fu
 </div>
 
 <div align="center"> 
-  <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%2011.png" width = 50% height = 50% alt="Figure 11" />
+  <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%2011.png" width = 75% height = 75% alt="Figure 11" />
 </div>
 
 <div align="center">
   <font color=black size=1>Figure 11 China Capacity Utilization</font>
 </div>
 <div align="center"> 
-  <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%2012.png" width = 50% height = 50% alt="Figure 12" />
+  <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%2012.png" width = 75% height = 75% alt="Figure 12" />
 </div>
 
 <div align="center">
