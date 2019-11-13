@@ -53,7 +53,7 @@ China's local fiscal pressure is getting bigger and bigger. There are two main r
 <br/>
 <div align="left">
 Figure 3 shows the expenditures in the eastern, central and western regions. The total investment in the western region is significantly higher than that in the central and western regions, especially in the generalized investment propensity . This reflects that the western region government still focuses on infrastructure investment to stimulate the economy. Projects of Infrastructure are usually huge invested, and it is difficult to achieve returns and break-even in the short term. Therefore, the financial pressure that began to emerge.
-
+</div>
 <br/>
 
 #### 2.2 The phenomenon of aging population is intensifying
