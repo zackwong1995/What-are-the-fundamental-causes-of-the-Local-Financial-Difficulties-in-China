@@ -32,7 +32,7 @@ China's local fiscal pressure is getting bigger and bigger. There are two main r
 ### 2. Increase in Expenditures
 #### 2.1 Large investment
 
-<div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure2.png" width = 50% height = 50% alt="Figure 2" /> <div/>
+<div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure2.png" width = 60% height = 60% alt="Figure 2" /> <div/>
 
 <div align="center"> <font color=black size=1>Figure2	Analysis of the changes in various indicators of fiscal expenditure structure in 2008 and 2016, Source: ”The Report of 2018 China’s Regional Financial Development Index”</font>
 </div>
@@ -43,7 +43,7 @@ China's local fiscal pressure is getting bigger and bigger. There are two main r
   Figure 2 shows the proportion of the five major categories of expenditures in 31 provinces, autonomous regions, and municipality in 2008 and 2016: administrative expenditures, people's livelihood expenditures, budgetary investment expenditures, general investment tendencies, and environmental expenditures. It can be seen that local governments have increased by a large portion in the two categories of intra-budgetary investment expenditure and generalized investment propensity, with an increase of 40.5% and 46.1% respectively, reflecting that local governments have continuously increased their investment since 2006. 
 </div>
 
-<div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%203.png" width = 50% height = 50% alt="Figure 3" />
+<div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%203.png" width = 60% height = 60% alt="Figure 3" />
 </div>
 
 <div align="center">
@@ -58,7 +58,7 @@ Figure 3 shows the expenditures in the eastern, central and western regions. The
 
 #### 2.2 The phenomenon of aging population is intensifying
 </div>
-<div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%204.png" width = 50% height = 50% alt="Figure 4" />
+<div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%204.png" width = 60% height = 60% alt="Figure 4" />
 </div>
 
 <div align="center"> <font color=black size=1>Figure 4	2008-2016 Comparison of Social Security Fund Surplus Ratio, Dependency Ratio of Endowment Insurance, Pension Fund Surplus Ratio and Medical Insurance Fund Surplus Ratio, Source: ”The Report of 2018 China’s Regional Financial Development Index”</font>
@@ -71,12 +71,12 @@ As China's aging phenomenon accelerates, the local government's pension expendit
 
 <br/>
 
-<div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%204.png" width = 50% height = 50% alt="Figure 5" />
+<div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%204.png" width = 60% height = 60% alt="Figure 5" />
 </div>
 
 <div align="center"> <font color=black size=1>Figure 5 The Dependency Ratio of the Elderly in Guangdong, Liaoning and Heilongjiang Provinces, Sources: Organized from the National Bureau of Statistics data, http://data.stats.gov.cn/index.htm</font><div/>
 
-<div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%206.png" width = 50% height = 50% alt="Figure 6" />
+<div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%206.png" width = 60% height = 60% alt="Figure 6" />
 </div>
 
 <div align="center"> <font color=black size=1>Figure 6	Dependency ratio of the Elderly and Surplus Rate of Pension Fund, Source: Statistical Yearbook of China; Dependency ratio of the Elderly=Population over 60/ Population aged 16 to 59 years old</font>
@@ -90,7 +90,7 @@ Figures 5 and 6 show the dependency ratio of the elderly all over the country. T
 <br/>
 
 <div align="center"> 
-<img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%206.png" width = 50% height = 50% alt="Figure 7" />
+<img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%206.png" width = 60% height = 60% alt="Figure 7" />
 </div>
 
 <div align="center"> 
@@ -105,7 +105,7 @@ To solve such problems, it is necessary for the central government's administrat
 </div>
 
 <div align="center"> 
-  <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%208.png" width = 50% height = 50% alt="Figure 8" />
+  <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%208.png" width = 60% height = 60% alt="Figure 8" />
 </div>
 
 <div align="center">
