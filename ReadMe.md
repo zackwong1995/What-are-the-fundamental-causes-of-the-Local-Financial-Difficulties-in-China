@@ -35,7 +35,7 @@ China's local fiscal pressure is getting bigger and bigger. There are two main r
 <div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure2.png" width = 50% height = 50% alt="Figure 2" /> <div/>
 
 <div align="center"> <font color=black size=1>Figure2	Analysis of the changes in various indicators of fiscal expenditure structure in 2008 and 2016, Source: ”The Report of 2018 China’s Regional Financial Development Index”</font>
-   <div/>
+</div>
 
 <br/>
   
@@ -44,7 +44,7 @@ China's local fiscal pressure is getting bigger and bigger. There are two main r
 </div>
 
 <div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%203.png" width = 50% height = 50% alt="Figure 3" />
-  </div>
+</div>
 
 <div align="center">
   <font color=black size=1>Figure 3	Indicators of fiscal expenditure structure in the Eastern, Central and Western Regions from 2008 to 2016, Source: ”The Report of 2018 China’s Regional Financial Development Index”</font>
@@ -53,84 +53,95 @@ China's local fiscal pressure is getting bigger and bigger. There are two main r
 <br/>
 <div align="left">
 Figure 3 shows the expenditures in the eastern, central and western regions. The total investment in the western region is significantly higher than that in the central and western regions, especially in the generalized investment propensity . This reflects that the western region government still focuses on infrastructure investment to stimulate the economy. Projects of Infrastructure are usually huge invested, and it is difficult to achieve returns and break-even in the short term. Therefore, the financial pressure that began to emerge.
-</div>
+
 <br/>
 
 #### 2.2 The phenomenon of aging population is intensifying
+</div>
 <div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%204.png" width = 50% height = 50% alt="Figure 4" />
-  </div>
+</div>
 
 <div align="center"> <font color=black size=1>Figure 4	2008-2016 Comparison of Social Security Fund Surplus Ratio, Dependency Ratio of Endowment Insurance, Pension Fund Surplus Ratio and Medical Insurance Fund Surplus Ratio, Source: ”The Report of 2018 China’s Regional Financial Development Index”</font>
-  </div>
+</div>
 
 <br/>
-
+<div align="left">
 As China's aging phenomenon accelerates, the local government's pension expenditures are increasing. First, as can be seen from Figure 4, since 2008, the surplus ratios of various funds have been declining. This reflects that the three major social security funds in China are facing surplus falling. As the population ages, the surplus of funds would probably decline continuously. Once the expenditure is greater than income, the government needs to increase subsidies and fill the gap. In addition, Figure 4 also shows that from 2008 to 2016, the dependency ratio of endowment insurance has also increased by 6.3%, which reflects that a large part of the pressure in China's social security fund comes from the aging population. This phenomenon has forced local governments to increase subsidies and cost the local budget.
+</div>
 
 <div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%204.png" width = 50% height = 50% alt="Figure 5" />
-  <div/>
+</div>
 
 <div align="center"> <font color=black size=1>Figure 5 The Dependency Ratio of the Elderly in Guangdong, Liaoning and Heilongjiang Provinces, Sources: Organized from the National Bureau of Statistics data, http://data.stats.gov.cn/index.htm</font><div/>
 
 <div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%206.png" width = 50% height = 50% alt="Figure 6" />
-  <div/>
+</div>
 
 <div align="center"> <font color=black size=1>Figure 6	Dependency ratio of the Elderly and Surplus Rate of Pension Fund, Source: Statistical Yearbook of China; Dependency ratio of the Elderly=Population over 60/ Population aged 16 to 59 years old</font>
-<div/>
+</div>
   
 <br/>
+<div align="left">
 Figures 5 and 6 show the dependency ratio of the elderly all over the country. The areas with severe population aging problems are mainly in the northeastern region. Representative provinces such as Liaoning and Heilongjiang, the dependency ratio of the elderly are higher than 15 times, the central government needs to support the pension expenditures every year. The fiscal burden of these provinces may become more severe as the aging problem becoming more serious in the future. In addition, areas with aging generally have problem with population outflows so that tax revenue and consumption contribution cannot be kept locally.
+</div>
 
 <br/>
 
 <div align="center"> 
 <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%206.png" width = 50% height = 50% alt="Figure 7" />
-<div/>
+</div>
 
 <div align="center"> 
 <font color=black size=1>Figure 7 2016 Land Grant Fee Dependence of different Provinces, Source: ”The Report of 2018 China’s Regional Financial Development Index”</font>
 <div align="center"> <font color=black size=1>Note: Land Grant Fee Dependence is the ratio of Land Transfer Revenue to General Public Budgetary Revenue</font>
-<div/>
+</div>
 
 <br/>
+<div align="left">
 From figure 7, local governments rely on the revenue from land sales in various degrees. These one-time transactions are actually not conducive to the long-term development of a region and will squander limited resources in a short time. This is actually related to the political system. Governments at all levels need to achieve certain performances under the central government. The performance standard is often the GDP index. Local officials would use a large amount of local resources in order to pursue political achievements, achieve the best performance during their term of office, and then jump to higher level provinces or to the central. This mechanism allows local governments to have only short- and medium-term plans but not long-term development. The local development is actually influence by the personal factors of local officials.
 To solve such problems, it is necessary for the central government's administrative reforms to include other measures besides GDP, such as the happiness index of residents and the utilization rate of local infrastructure. The most directly feasible method is to cut expenditures. Since the meeting held by the Political Bureau of the CPC Central Committee on December 4, 2012, and passed the "Eight Regulations," China's overall administrative expenditure has dropped significantly. Figure 2 shows the administrative expenditure fell by 6.78% in 2016 compared to 2006, but the data lack of transparency.
+</div>
 
 <div align="center"> 
   <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%208.png" width = 50% height = 50% alt="Figure 8" />
-<div/>
+</div>
 
 <div align="center">
   <font color=black size=1>Figure 8 2013-2007 National education expenditure compared with the Number of Faculty and Teacher, Sources: Organized from the National Bureau of Statistics of China, http://data.stats.gov.cn/index.htm</font>
-<div/>
+</div>
   
 <br/>
 
+<div align="left">
 For example, it can be seen from Figure 8 that the national financial education expenditure disclosed by the National Bureau of Statistics in 2018 is ¥32,169.47 billion, an increase of about 3.5 times compared with ¥90,102.1 billion in 2008. However, the number of rural primary schools in China has decreased from 253,041 in 2008 to 161,811 in 2018, a decrease of about 35%. At the same time, the number of faculty across the country and rural faculty have also declined. The nationals do not know whether education expenditures have been used in the right way or not. In addition, the data of “Three public consumption” and “Other expenditures” in the budgetary expenditure have not been publicized for many years. Therefore, how to supervise and control local expenditures would be very important for solving financial pressures. If the local governments can cut unnecessary spending, and increase transparency in the use of funds so that the public can monitor the government's operation, the local finances will be greatly improved.
 <br/>
 
 ### 3. Suggestion
 Considering that local governments have rich experience in investment of infrastructure and large-scale projects, they can refer to the Hong Kong MTR approach in infrastructure and property investment. The operation mode of the MTR is based on the concentrated development of "Railway + Property Development". The entire project is centered on the subway station and targets the major industries in the region. The MTR corporation focuses on building a large number of properties connected to the subway, using the subway to promote regional economic development.
+</div>
 
 <div align="center"> 
   <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%209.png" width = 50% height = 50% alt="Figure 9" />
-<div/>
+</div>
 
 <div align="center">
   <font color=black size=1>Figure 9 Price trend of the Academic Terrace before and after the new MTR line opening, Source: MIDLAND REALTY, https://www.midland.com.hk/property-price-chart/</font>
-<div/>
+</div>
 
 <br/>
 
+<div align="left">
 Take the stations opened by the MTR corporation in recent years as an example. As can be seen from Figure 9, the Hong Kong University Station, which were officially opened on December 28, 2014. The price of nearby property such as "Academic Terrace" increased from an average of HK$11,778 per square foot in November 2014 to average HK$15,622 per square foot in July 2015, raised about 32.6%. 
+</div>
 
 <div align="center"> 
   <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%2010.png" width = 50% height = 50% alt="Figure 10" />
-<div/>
-
+</div>
 <div align="center">
   <font color=black size=1>Figure 10	 Price trend of the Whampoa Garden before and after the new MTR line opening, Source: MIDLAND REALTY, https://www.midland.com.hk/property-price-chart/</font>
-<div/>
+</div>
+
+<div align="left">
 
 Figure 10 also shows that on October 23, 2016, after the opening of the line at Ho Man Tin Station, the price of the nearby property "Whampoa Garden", increased at a significantly faster rate. It rose from HK$13,744 in October 2016 to HK$14,988 in June 2017, an increase of about 10%.
 The core of MTR corporation's high-profit with "railway + property development" is that the price of any area would usually increase after the opening of the subway. The synergistic effect of those properties with MTR stations would lead to regional business activity. Such as the recreation industry and service industry. In addition, the concentration of office buildings near the subway can also enhance efficiency. In order to improve the efficiency of the project, the government should invest in the railway company in the form of pure capital investment but does not participate in and interference with the operation of the railway company, so that the railway company is responsible for its own profits and losses. The railway company is no longer set up by the government's investing subsidiary and the government only shares dividends by the company.
@@ -153,22 +164,24 @@ Third, is the inequality of public services. Migrant-workers cannot enjoy the pu
 ## The Third Core Questions to Answer:
 Q3:  Can China's current excess capacity (infrastructure, factories, etc.) be further transformed into development momentum? In particular, the excess capacity of second- and third-tier cities in China is caused by the outward migration of the population. Is there any way to digest these excess capacities or use other ways to drive local development?
 
+</div>
+
 <div align="center"> 
   <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%2011.png" width = 50% height = 50% alt="Figure 11" />
-<div/>
+</div>
 
 <div align="center">
   <font color=black size=1>Figure 11 China Capacity Utilization</font>
-<div/>
-
+</div>
 <div align="center"> 
   <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%2012.png" width = 50% height = 50% alt="Figure 12" />
-<div/>
+</div>
 
 <div align="center">
   <font color=black size=1>Figure 12 Japan Capacity Utilization</font>
-<div/>
+</div>
 
+<div align="left">
 In the narrow sense of overcapacity, only the capacity utilization rate is considered, and China's total capacity utilization rate indeed has an excess. Figure 11 and Figure 12 show the capacity utilization rate of China and other countries. China's capacity utilization rate has remained at around 75% for a long time, while countries with more developed industries and technologies such as Japan can usually remain above 85%. China's current capacity utilization rate is about a medium and lower level at the world level. This is due to technological developments, social changes, and demand changes. In the decades of reform and opening-up, China's industry and manufacturing have changed a lot. Many capacities have played a huge role in construction, but it may no longer be applicable today: Part of the technology is outdated, resulting in unemployment and disposal of workers and factories; In addition, due to technological innovation, many older workers cannot easily learn new technologies, leading to inefficiency in new job or even unemployment. The overcapacity caused by technological innovation requires labor training to transform the older capacity. In terms of re-training, local governments can refer to the Employees Retraining Board, Labour and Welfare Bureau of Hong Kong Government. For example, the "Placement-tied Courses" link to relevant job opportunities. Trainees with good performance are provided with a 3-6 month placement follow-up services to help them re-enter the job market. In addition, there are also Generic Skills Training Courses, "Skills Upgrading Scheme Plus" Courses, Courses for Special Service Targets e.t.c., all information is publicized on the government website so the citizen can easily find it. China’s local governments can refer to these labor retraining programs, help workers re-join in industrial production and improve their work efficiency. This is a way to transform the older-capacity.
 
 <br/>
@@ -178,12 +191,14 @@ Local governments can also develop their local specialties to drive local capaci
 ### Conslusion
 The local governments should consider their characteristic industry with their own cities when developing infrastructure, and try to cooperate with those industries to bring the appreciation of assets value and development. 
 Theses development plans can be lead by the government and contracted to private enterprises by public bidding, especially the operation of some surrounding supporting facilities, such as green development and general facilities (elevator, etc.). And the most important thing is the development of urban railways and the way the government participates in. It is necessary to properly choose the participation mode according to local conditions. However, the government should still in the form of pure shareholding and do not interfere with the decision-making of the railway company.
+
 <br/>
+
 Local government can also improve population management, simplify the application process for migrants with different register-account, and improve the welfare policies for migrants (including education, medical service, housing) to attract more young labor. When more youth come to the city, it would be able to bring more vitality and give stronger competitiveness.
 As long as the government can properly select priority objectives, solve them orderly, and not be too hasty. These problems could be solved in the future. 
 
 
-<div/>
+</div>
 
 
 
