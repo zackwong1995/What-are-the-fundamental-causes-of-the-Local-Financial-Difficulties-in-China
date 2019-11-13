@@ -143,6 +143,8 @@ Take the stations opened by the MTR corporation in recent years as an example. A
   <font color=black size=1>Figure 10	 Price trend of the Whampoa Garden before and after the new MTR line opening, Source: MIDLAND REALTY, https://www.midland.com.hk/property-price-chart/</font>
 </div>
 
+<br/>
+
 <div align="left">
 
 Figure 10 also shows that on October 23, 2016, after the opening of the line at Ho Man Tin Station, the price of the nearby property "Whampoa Garden", increased at a significantly faster rate. It rose from HK$13,744 in October 2016 to HK$14,988 in June 2017, an increase of about 10%.
