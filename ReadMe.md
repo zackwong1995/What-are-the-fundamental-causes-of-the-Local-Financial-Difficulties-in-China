@@ -183,7 +183,7 @@ Local government can also improve population management, simplify the applicatio
 As long as the government can properly select priority objectives, solve them orderly, and not be too hasty. These problems could be solved in the future. 
 
 
-</div>
+<div/>
 
 
 
