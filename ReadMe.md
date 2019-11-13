@@ -57,10 +57,10 @@ Figure 3 shows the expenditures in the eastern, central and western regions. The
 
 #### 2.2 The phenomenon of aging population is intensifying
 <div align="center"> <img src="https://github.com/zackwong1995/What-are-the-fundamental-causes-of-the-Local-Financial-Difficulties-in-China/blob/master/Figure%204.png" width = 50% height = 50% alt="Figure 4" />
-  <div/>
+  </div>
 
 <div align="center"> <font color=black size=1>Figure 4	2008-2016 Comparison of Social Security Fund Surplus Ratio, Dependency Ratio of Endowment Insurance, Pension Fund Surplus Ratio and Medical Insurance Fund Surplus Ratio, Source: ”The Report of 2018 China’s Regional Financial Development Index”</font>
-  <div/>
+  </div>
 
 <br/>
 
